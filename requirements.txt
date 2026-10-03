@@ -1,0 +1,4 @@
+# No third-party packages are needed.
+# This project only uses Python's built-in libraries:
+# socket, threading, json, struct, uuid, os, queue, ipaddress, tkinter
+# Python 3.9 or later is required.
